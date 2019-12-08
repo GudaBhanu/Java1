@@ -5,7 +5,7 @@ public class totrigger{
 	for (int i=1; i<=10;i++)
 
 {
-			System.out.println(" editing on totriggerfile" +i);
+			System.out.println(" editing on totriggerfile with name bhanu" +i);
 }
 }
 }
